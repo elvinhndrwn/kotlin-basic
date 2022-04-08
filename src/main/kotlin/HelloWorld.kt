@@ -1,3 +1,4 @@
 fun main() {
-    println("Hello kotlin")
+    var name: String = "Elvin"
+    println("Hello kotlin "+ name)
 }
